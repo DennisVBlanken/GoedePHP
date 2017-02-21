@@ -1,0 +1,38 @@
+body.Ochtend{
+	background-image: url(Images/morning.png);
+	background-size: cover;
+}
+
+body.Middag{
+	background-image: url(Images/afternoon.png);
+	background-size: cover;
+}
+
+body.Avond{
+	background-image: url(Images/evening.png);
+	background-size: cover;
+}
+
+body.Nacht{
+	background-image: url(Images/night.png);
+	background-size: cover;
+}
+
+h1{
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	font-size: 50px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	font-size: 50px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
